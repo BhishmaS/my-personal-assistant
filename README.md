@@ -1,5 +1,7 @@
 # My Personal Assistant
 
+Creating a personal assistant capable of handling various digital tasks for me, maybe similar to a virtual mother or virtual girlfriend.
+
 ## Initial roadmap
 
 - Integrations: [Need to break use case for each integration separately]
