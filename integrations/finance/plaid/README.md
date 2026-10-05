@@ -16,6 +16,13 @@ Credentials stay with the institution; the assistant never sees logins.
 - Fidelity — linked through Plaid on 2026-10-05: two 401(k) plans
   (EPAM, ServiceNow), individual brokerage TOD, Health Savings Account,
   employee stock purchase plan, and restricted stock units.
+- American Express — Cash Magnet credit card, linked through Plaid
+  on 2026-10-05.
+- Bilt — Bilt Blue credit card, linked through Plaid on 2026-10-05.
+- Discover — Discover it credit card, linked through Plaid on
+  2026-10-05.
+- Citi — Costco Anywhere Visa credit card, linked through Plaid on
+  2026-10-05.
 
 ## What the assistant can read
 - Account metadata and balances
