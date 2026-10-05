@@ -4,12 +4,12 @@ WHOOP fitness tracker integration for the personal assistant.
 
 ## Layout
 
-- `SKILL.md` + `bin/` — the assistant skill that reads WHOOP data (recovery,
+- `SKILL.md` + `scripts/` — the assistant skill that reads WHOOP data (recovery,
   sleep, strain, workouts, profile) via the WHOOP v2 API
   (`https://api.prod.whoop.com/developer/v2`).
-  - `bin/whoop.py` — CLI: `profile`, `recovery`, `sleep`, `workouts`, `cycles`
+  - `scripts/whoop.py` — CLI: `profile`, `recovery`, `sleep`, `workouts`, `cycles`
     (JSON on stdout).
-  - `bin/dynamic_credentials.py` — auth helper. In the assistant environment,
+  - `scripts/dynamic_credentials.py` — auth helper. In the assistant environment,
     auth goes through a secure credential exchange; no raw key is stored here.
 - `dashboard/analytics-dashboard.html` — static snapshot of the analytics
   dashboard (WHOOP data, Sep 10 – Oct 4, 2026). Exported from the hosted web

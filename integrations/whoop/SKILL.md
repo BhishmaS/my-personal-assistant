@@ -9,16 +9,16 @@ description: "Read WHOOP health data: recovery, sleep, strain, workouts, and pro
 Fetch the user's WHOOP metrics (recovery, sleep, strain, workouts) to answer health questions and support their health goal.
 
 ## Tooling
-`bin/whoop.py` — CLI for the WHOOP v2 API. Auth goes through the bundled
-`bin/dynamic_credentials.py` helper (authd surrogate exchange); no raw
+`scripts/whoop.py` — CLI for the WHOOP v2 API. Auth goes through the bundled
+`scripts/dynamic_credentials.py` helper (authd surrogate exchange); no raw
 credential is ever read, printed, or stored here.
 
 ```
-bin/whoop.py profile
-bin/whoop.py recovery [--start ISO] [--end ISO] [--limit N]
-bin/whoop.py sleep    [--start ISO] [--end ISO] [--limit N]
-bin/whoop.py workouts [--start ISO] [--end ISO] [--limit N]
-bin/whoop.py cycles   [--start ISO] [--end ISO] [--limit N]
+scripts/whoop.py profile
+scripts/whoop.py recovery [--start ISO] [--end ISO] [--limit N]
+scripts/whoop.py sleep    [--start ISO] [--end ISO] [--limit N]
+scripts/whoop.py workouts [--start ISO] [--end ISO] [--limit N]
+scripts/whoop.py cycles   [--start ISO] [--end ISO] [--limit N]
 ```
 
 Dates are ISO-8601 (e.g. `2026-10-01T00:00:00Z`). Output is JSON on stdout.
