@@ -13,6 +13,10 @@ Credentials stay with the institution; the assistant never sees logins.
   linked through Plaid's OAuth flow on 2026-10-05.
 - Bank of America — Adv SafeBalance Banking checking (…9459), linked
   through Plaid on 2026-10-05.
+- Fidelity — linked through Plaid on 2026-10-05: two 401(k) plans
+  (EPAM …1056, ServiceNow …1444), individual brokerage TOD (…8077),
+  Health Savings Account (…2425), employee stock purchase plan (…2294),
+  and restricted stock units (…4212).
 
 ## What the assistant can read
 - Account metadata and balances
