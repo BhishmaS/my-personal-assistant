@@ -1,1 +1,3 @@
-IyBTb2NpYWwgaW50ZWdyYXRpb25zCgogLSBMaW5rZWRJbiDigJQgcmVtb3ZlZCBO b3YgOCwgMjAyNi4gRG8gbm90IGFjY2VzcyBMaW5rZWRJbjogY3JlZGVudGlhbHMgcmVtb3ZlZCBmcm9tIHRoZSBTZWN1cmUgVmF1bHQgYW5kIHRoZSB1c2VyIGluc3RydWN0ZWQgbm90IHRvIHNpZ24gaW4uCg==
+# Social integrations
+
+- LinkedIn — removed Nov 8, 2026. Do not access LinkedIn: credentials removed from the Secure Vault and the user instructed not to sign in.
