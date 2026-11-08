@@ -1,4 +1,1 @@
-# Social integrations
-
-- `linkedin/` — notes on the LinkedIn website-login integration (saved
-  username + password in the Secure Vault; no code).
+IyBTb2NpYWwgaW50ZWdyYXRpb25zCgogLSBMaW5rZWRJbiDigJQgcmVtb3ZlZCBO b3YgOCwgMjAyNi4gRG8gbm90IGFjY2VzcyBMaW5rZWRJbjogY3JlZGVudGlhbHMgcmVtb3ZlZCBmcm9tIHRoZSBTZWN1cmUgVmF1bHQgYW5kIHRoZSB1c2VyIGluc3RydWN0ZWQgbm90IHRvIHNpZ24gaW4uCg==
